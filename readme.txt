@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick AND simple & simple.
 //怎么回事进不了状态  begin your style 
+//什么问题呢?
